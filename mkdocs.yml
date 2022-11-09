@@ -96,6 +96,9 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - 简介:
+    - "index.md"
+    - 如何贡献: "简介/如何贡献.md"
   - 数学基础:
     - "数学基础/数学基础简介.md"
     - 高等代数基础:
