@@ -122,6 +122,12 @@ nav:
       - Sobolev空间概念: "数学基础/Sobolev空间/Sobolev空间概念.md"
   - 科学计算工具: 
     - "科学计算工具/科学计算工具简介.md"
+    - Matlab: 
+      - "科学计算工具/Matlab/Matlab简介.md"
+    - Maple:
+      - "科学计算工具/Maple/Maple简介.md"
+    - Mathematica:
+      - "科学计算工具/Mathematica/Mathematica简介.md"
   - 浮点数误差: "浮点数误差/浮点数误差简介.md"
   - 线性方程组求解: 
     - "线性方程组求解/线性方程组求解简介.md"
