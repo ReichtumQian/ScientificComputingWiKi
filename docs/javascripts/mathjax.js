@@ -8,7 +8,19 @@ window.MathJax = {
     options: {
       ignoreHtmlClass: ".*|",
       processHtmlClass: "arithmatex"
+    },
+    startup: {
+    ready() {
+      MathJax.startup.defaultReady();
+      MathJax.startup.document.inputJax[0].preFilters.add(
+        ({math}) => {
+          if (math.display === false) {
+            math.math = '\\displaystyle{' + math.math + '}';
+          }
+        }
+      );
     }
+  }
   };
   
   document$.subscribe(() => {
