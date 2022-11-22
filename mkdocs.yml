@@ -138,6 +138,7 @@ nav:
         - "数学基础/泛函分析基础/Sobolev空间/Sobolev空间简介.md"
         - 广义导数: "数学基础/泛函分析基础/Sobolev空间/广义导数.md"
         - Sobolev空间概念: "数学基础/泛函分析基础/Sobolev空间/Sobolev空间概念.md"
+        - Sobolev等价范数: "数学基础/泛函分析基础/Sobolev空间/Sobolev等价范数.md"
     - 常微分方程:
       - "数学基础/常微分方程/常微分方程简介.md"
     - 偏微分方程:
